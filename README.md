@@ -25,9 +25,7 @@ Docs on Kaggle API usage :
 6. Pandas
 7. Numpy
 8. tqdm
-
-## new
-![image5](Images/5.PNG)   
+   
 
 ## Usage
 1. Download the data and unzip it as `FER2013` dir.
@@ -37,22 +35,22 @@ Docs on Kaggle API usage :
 ### Using pre-trained weights:
 The Layers for the network : 
 
-![name4](https://github.com/ASH1998/Emotion-detection/blob/master/Images/4.PNG)
+![name4](Images/4.PNG)
 
 ## Images
 Testset Accuracy : 
 
-![image2](https://github.com/ASH1998/Emotion-detection/blob/master/Images/2.PNG)
+![image2](Images/2.PNG)
 
 Some Images prediction :
 
-![image5](https://github.com/ASH1998/Emotion-detection/blob/master/Images/5.PNG)   
-![image1](https://github.com/ASH1998/Emotion-detection/blob/master/Images/1.PNG)       
-![image3](https://github.com/ASH1998/Emotion-detection/blob/master/Images/3.PNG)           
-![image6](https://github.com/ASH1998/Emotion-detection/blob/master/Images/6.PNG)   
-![image7](https://github.com/ASH1998/Emotion-detection/blob/master/Images/7.PNG)   
+![image5](Images/5.PNG)   
+![image1](Images/1.PNG)       
+![image3](Images/3.PNG)           
+![image6](Images/6.PNG)   
+![image7](Images/7.PNG)   
 
 ## EDA confusion Matrix and Scores:
-![image8](https://github.com/ASH1998/Emotion-detection/blob/master/Images/8.PNG)      
-![image9](https://github.com/ASH1998/Emotion-detection/blob/master/Images/9.PNG)         
-![image10](https://github.com/ASH1998/Emotion-detection/blob/master/Images/10.PNG)   
+![image8](Images/8.PNG)      
+![image9](Images/9.PNG)         
+![image10](Images/10.PNG)   

@@ -13,7 +13,8 @@ The dataset used here is the famous `FER2013 dataset` from kaggle's [FER challen
 1.Install Kaggle from [github](https://github.com/Kaggle/kaggle-api)   
 2.Use the command in terminal `kaggle competitions download -c challenges-in-representation-learning-facial-expression-recognition-challenge`    
 
-Docs on Kaggle API usage :[github](https://github.com/Kaggle/kaggle-api) | [kaggle](https://www.kaggle.com/docs/api)
+Docs on Kaggle API usage :
+[github](https://github.com/Kaggle/kaggle-api) | [kaggle](https://www.kaggle.com/docs/api)
 
 ## Dependencies
 1. Python
@@ -25,7 +26,6 @@ Docs on Kaggle API usage :[github](https://github.com/Kaggle/kaggle-api) | [kagg
 7. Numpy
 8. tqdm
 
-![8](https://user-images.githubusercontent.com/23384411/46333675-d3e3e500-c63e-11e8-8e8e-09a2edc61638.PNG)
 
 ## Usage
 1. Download the data and unzip it as `FER2013` dir.
@@ -35,22 +35,22 @@ Docs on Kaggle API usage :[github](https://github.com/Kaggle/kaggle-api) | [kagg
 ### Using pre-trained weights:
 The Layers for the network : 
 
-![4](https://github.com/ASH1998/Emotion-detection/blob/master/Images/4.PNG)
+![name4](https://github.com/ASH1998/Emotion-detection/blob/master/Images/4.PNG)
 
 ## Images
 Testset Accuracy : 
 
-![2](https://github.com/ASH1998/Emotion-detection/blob/master/Images/2.PNG)
+![image2](https://github.com/ASH1998/Emotion-detection/blob/master/Images/2.PNG)
 
 Some Images prediction :
 
-![5](https://github.com/ASH1998/Emotion-detection/blob/master/Images/5.PNG)   
-![1](https://github.com/ASH1998/Emotion-detection/blob/master/Images/1.PNG)       
-![3](https://github.com/ASH1998/Emotion-detection/blob/master/Images/3.PNG)           
-![6](https://github.com/ASH1998/Emotion-detection/blob/master/Images/6.PNG)   
-![7](https://github.com/ASH1998/Emotion-detection/blob/master/Images/7.PNG)   
+![image5](https://github.com/ASH1998/Emotion-detection/blob/master/Images/5.PNG)   
+![image1](https://github.com/ASH1998/Emotion-detection/blob/master/Images/1.PNG)       
+![image3](https://github.com/ASH1998/Emotion-detection/blob/master/Images/3.PNG)           
+![image6](https://github.com/ASH1998/Emotion-detection/blob/master/Images/6.PNG)   
+![image7](https://github.com/ASH1998/Emotion-detection/blob/master/Images/7.PNG)   
 
 ## EDA confusion Matrix and Scores:
-![8](https://github.com/ASH1998/Emotion-detection/blob/master/Images/8.PNG)      
-![9](https://github.com/ASH1998/Emotion-detection/blob/master/Images/9.PNG)         
-![10](https://github.com/ASH1998/Emotion-detection/blob/master/Images/10.PNG)   
+![image8](https://github.com/ASH1998/Emotion-detection/blob/master/Images/8.PNG)      
+![image9](https://github.com/ASH1998/Emotion-detection/blob/master/Images/9.PNG)         
+![image10](https://github.com/ASH1998/Emotion-detection/blob/master/Images/10.PNG)   

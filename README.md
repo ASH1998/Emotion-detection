@@ -25,6 +25,8 @@ Docs on Kaggle API usage :[github](https://github.com/Kaggle/kaggle-api) | [kagg
 7. Numpy
 8. tqdm
 
+![8](https://user-images.githubusercontent.com/23384411/46333675-d3e3e500-c63e-11e8-8e8e-09a2edc61638.PNG)
+
 ## Usage
 1. Download the data and unzip it as `FER2013` dir.
 2. Clone this repo.

@@ -26,6 +26,8 @@ Docs on Kaggle API usage :
 7. Numpy
 8. tqdm
 
+## new
+![image5](Images/5.PNG)   
 
 ## Usage
 1. Download the data and unzip it as `FER2013` dir.

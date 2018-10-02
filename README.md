@@ -2,6 +2,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.io/ASH1998/Emotion-detection.svg)](http://hits.dwyl.io/ASH1998/Emotion-detection)
 
 Emotion Detection using CNN with FER2013 dataset
+## Website : [https://ash1998.github.io/Emotion-detection/](https://ash1998.github.io/Emotion-detection/)
 
 ## Getting Data
 The dataset used here is the famous `FER2013 dataset` from kaggle's [FER challenge of 2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge) 
@@ -41,19 +42,13 @@ Testset Accuracy :
 
 Some Images prediction :
 
-![5](https://github.com/ASH1998/Emotion-detection/blob/master/Images/5.PNG)
-------------------------------------------------------------------------------    
-![1](https://github.com/ASH1998/Emotion-detection/blob/master/Images/1.PNG)
-------------------------------------------------------------------------------    
-![3](https://github.com/ASH1998/Emotion-detection/blob/master/Images/3.PNG)
-------------------------------------------------------------------------------    
-![6](https://github.com/ASH1998/Emotion-detection/blob/master/Images/6.PNG)
-------------------------------------------------------------------------------    
-![7](https://github.com/ASH1998/Emotion-detection/blob/master/Images/7.PNG)
+![5](https://github.com/ASH1998/Emotion-detection/blob/master/Images/5.PNG)   
+![1](https://github.com/ASH1998/Emotion-detection/blob/master/Images/1.PNG)       
+![3](https://github.com/ASH1998/Emotion-detection/blob/master/Images/3.PNG)           
+![6](https://github.com/ASH1998/Emotion-detection/blob/master/Images/6.PNG)   
+![7](https://github.com/ASH1998/Emotion-detection/blob/master/Images/7.PNG)   
 
 ## EDA confusion Matrix and Scores:
-![8](https://github.com/ASH1998/Emotion-detection/blob/master/Images/8.PNG)
-------------------------------------------------------------------------------    
-![9](https://github.com/ASH1998/Emotion-detection/blob/master/Images/9.PNG)
-------------------------------------------------------------------------------      
-![10](https://github.com/ASH1998/Emotion-detection/blob/master/Images/10.PNG)
+![8](https://github.com/ASH1998/Emotion-detection/blob/master/Images/8.PNG)      
+![9](https://github.com/ASH1998/Emotion-detection/blob/master/Images/9.PNG)         
+![10](https://github.com/ASH1998/Emotion-detection/blob/master/Images/10.PNG)   

@@ -1,7 +1,7 @@
 # Emotion-detection
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.io/ASH1998/Emotion-detection.svg)](http://hits.dwyl.io/ASH1998/Emotion-detection)
 
-Emotion Detection using CNN with FER2013 dataset
+Emotion Detection using deep unbaised CONV-net!!
 ## Website : [https://ash1998.github.io/Emotion-detection/](https://ash1998.github.io/Emotion-detection/)
 
 ## Getting Data

@@ -59,7 +59,7 @@ Some Images prediction :
 ![image10](Images/10.PNG)   
 
 ### ED Analysis:
-1. Happy Emotion is the most detected, as it has most number of examples
-2. Sad, Surprise, Neutral and Anger are also good in detecting due to enough examples.
-3. Fear and Disgust perform worse, possible reasons : Less training examples and for disgust: pretty similar to anger features.
-4. Sad emotions are also closely detected as neutral, cuz its hard to distinguish them with just this much data.
+1. `Happy` Emotion is the most detected, as it has most number of examples
+2. `Sad`, `Surprise`, `Neutral` and `Anger` are also good in detecting due to enough examples.
+3. `Fear` and `Disgust` perform worse, possible reasons : Less training examples and for `disgust`: pretty similar to `anger` features.
+4. `Sad` emotions are also closely detected as `neutral`, cuz its hard to distinguish them with just this much data.

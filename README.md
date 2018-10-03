@@ -28,6 +28,7 @@ Docs on Kaggle API usage :
    
 
 ## Usage
+### For model1:      
 1. Download the data and unzip it as `FER2013` dir.
 2. Clone this repo.
 3. Add the full path of `fer2013.csv` into `cell 3` of `FER2013-model1.ipynb`.
@@ -37,6 +38,8 @@ The Layers for the network :
 
 ![name4](Images/4.PNG)
 
+### For EDA notebook :     
+1. Change the path to weights folder in `cell3`.      
 ## Images
 Testset Accuracy : 
 
@@ -51,6 +54,12 @@ Some Images prediction :
 ![image7](Images/7.PNG)   
 
 ## EDA confusion Matrix and Scores:
-![image8](Images/8.PNG)      
+![image8](Images/811.PNG)      
 ![image9](Images/9.PNG)         
 ![image10](Images/10.PNG)   
+
+### ED Analysis:
+1. Happy Emotion is the most detected, as it has most number of examples
+2. Sad, Surprise, Neutral and Anger are also good in detecting due to enough examples.
+3. Fear and Disgust perform worse, possible reasons : Less training examples and for disgust: pretty similar to anger features.
+4. Sad emotions are also closely detected as neutral, cuz its hard to distinguish them with just this much data.
